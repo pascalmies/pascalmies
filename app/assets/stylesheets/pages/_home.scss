@@ -1,1 +1,40 @@
 // Specific CSS for your home-page
+.first-scroll-container {
+  height: 90vh;
+  width: 100%;
+  background-color: white;
+}
+
+.second-scroll-container {
+  height: 100vh;
+  width: 100%;
+  background-color: white;
+}
+
+.section-two-title {
+  text-align: center;
+}
+
+.name {
+  text-align: center;
+    width: 600px;
+    height: 300px;
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+
+
+.row {
+  display:flex;
+  justify-content: center;
+}
+
+h1 {
+  font-family: 'Nunito', sans-serif;
+  font-size: 84px;
+}
